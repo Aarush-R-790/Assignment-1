@@ -1,4 +1,4 @@
-# Assignmet 1
+# Assignment 1
 ## Task 1
 In this task, two numbers are taken as input from the user, and basic arithmetic operations are performed on them
 ## Task 2
