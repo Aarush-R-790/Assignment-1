@@ -1,8 +1,9 @@
 a = int(input("Enter the first number : "))
 b = int(input("Enter the second number : "))
-print("/n")
+print("\n")
+
 print("Addition :", a + b)
 print("Subtraction :", a - b)
 print("Multiplication :", a * b)
 print("Divsion :", a / b)
-print("/nTHANK YOU")
+print("\nTHANK YOU")
